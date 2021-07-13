@@ -4,9 +4,9 @@ This NodeJS app uses [whale-alert.io's](https://whale-alert.io/) API to fetch th
 I call it poor man's whale alert.
 
 ### Here are some screenshots
-![screenshot](https://github.com/jaychandra6/Whale-Alert/blob/main/transaction_json.png)
+![screenshot](https://github.com/threadException/Whale-Alert/blob/main/transaction_json.png)
 
-![screenshot](https://github.com/jaychandra6/Whale-Alert/blob/main/transaction.png)
+![screenshot](https://github.com/threadException/Whale-Alert/blob/main/transaction.png)
 
 ### Whyyyyy?
 For free accounts whale-alert.io's API is very limited, only allows 10 api calls per minute or 1 api call per 6 seconds.
